@@ -13,6 +13,13 @@ public class main {
         FeatureSun Sun=new FeatureSun();
         Sun.name="panther";
         Sun.color="black";
-        Sun.temp="-123435kelvin"; 
+        Sun.temp="-123435kelvin";
+
+        //********Planet2*********** 
+        Planet1 plato=new Planet1();
+        plato.color="green";
+        plato.name="abracadabra";
+        plato.temp="100000k";
+        plato.radius="80000km";
     }
 }
