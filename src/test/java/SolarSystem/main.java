@@ -15,10 +15,19 @@ public class main {
         Sun.color="black";
         Sun.temp="-123435kelvin";
 
+
         //********* Planet2******
         Planet2 xaros=new Planet2();
         xaros.name="nehaio";
         xaros.color="blue";
         xaros.size="324568746843km";
+
+        //********Planet1***********
+        Planet1 plato=new Planet1();
+        plato.color="green";
+        plato.name="abracadabra";
+        plato.temp="100000k";
+        plato.radius="80000km";
+
     }
 }
