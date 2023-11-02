@@ -13,6 +13,12 @@ public class main {
         FeatureSun Sun=new FeatureSun();
         Sun.name="panther";
         Sun.color="black";
-        Sun.temp="-123435kelvin"; 
+        Sun.temp="-123435kelvin";
+
+        //********* Planet2******
+        Planet2 xaros=new Planet2();
+        xaros.name="nehaio";
+        xaros.color="blue";
+        xaros.size="324568746843km";
     }
 }
